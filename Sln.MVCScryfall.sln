@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devs2Blu.Projeto.MVCScryfall", "src\Devs2Blu.Projeto.MVCScryfall\Devs2Blu.Projeto.MVCScryfall.csproj", "{A7CEFB32-8530-4312-9CB6-B261F2D0377F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7CEFB32-8530-4312-9CB6-B261F2D0377F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CEFB32-8530-4312-9CB6-B261F2D0377F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CEFB32-8530-4312-9CB6-B261F2D0377F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CEFB32-8530-4312-9CB6-B261F2D0377F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B5256C4-4241-4C5A-905D-4B5787C46E1E}
+	EndGlobalSection
+EndGlobal
