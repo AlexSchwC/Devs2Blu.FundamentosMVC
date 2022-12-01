@@ -2,11 +2,11 @@
 
 namespace Devs2Blu.Projeto.MVCScryfall.Services
 {
-	public class ApiRequestsService
+	public class ServiceAPI
 	{
 		private readonly HttpClient _httpClient;
 
-		public ApiRequestsService()
+		public ServiceAPI()
 		{
 			_httpClient = new HttpClient();
 		}
